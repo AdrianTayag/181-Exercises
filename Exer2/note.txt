@@ -1,0 +1,5 @@
+Get Ybus
+Get Pbus from Ybus
+Isolate Angles
+Reduce Pbus (slack)
+Get P values for each flow P  = B(from - to)
